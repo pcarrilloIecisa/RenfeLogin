@@ -55,6 +55,6 @@
         "id": "logout",
         "texto": "menu.logout",
         "clase": "cerrar-sesion",
-        "url": "/logout"
+        "url": "admin/logout"
     }
 ]

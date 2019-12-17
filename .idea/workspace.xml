@@ -6,7 +6,122 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0e22f9b-fec4-4582-aad8-0456657d52df" name="Default Changelist" comment="" />
+    <list default="true" id="b0e22f9b-fec4-4582-aad8-0456657d52df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_new2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_new2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/classes/com/iecisa/controllers/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/classes/com/iecisa/controllers/LogoutController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/classes/com/iecisa/controllers/MainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/classes/spring/application-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/jboss-deployment-structure.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/jboss-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/login_new.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/login_new2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/login_old.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/login_old2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/login_old3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/templates/main_old.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/migas-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/data/menus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/cer-men-lateral.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/cerrar-sesion-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/cerrar-sesion.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/close-ave.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/conectiv-exter-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/conectiv-exter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/contenidos-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/contenidos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/dat-acces-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/dat-acces.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/descargar-ic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/dispositivos-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/dispositivos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/kpi-glob-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/kpi-glob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/log.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/lupa-morada.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/migas-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/open-ul.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/point.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/sub-arch-table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/subir-archivo-activ.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/icons/subir-archivo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/background-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/graficos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/logo-ave-imf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/logo-play-renfe-imf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/logo-renfe-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/play-renfe-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/images/renfe-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/pdfs/PlayRenfe-Trenes-PDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/assets/translations/es-ES.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/css/styles.a9e726e99285e5511939.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/css/stylesLogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/css/styles_old.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/images/background-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/images/migas-arrow.d9de41aff6198d299403.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/images/migas-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/images/play-renfe-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/images/renfe-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/main-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/main-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/main-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/main-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/polyfills-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/polyfills-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/polyfills-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/polyfills-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/runtime-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/runtime-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/runtime-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/runtime-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/scripts.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/styles-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/styles-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/styles-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/styles-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/vendor-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/vendor-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/vendor-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/js/vendor-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/main-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/main-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/main-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/main-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/polyfills-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/polyfills-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/polyfills-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/polyfills-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/runtime-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/runtime-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/runtime-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/runtime-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/scripts.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/styles-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/styles-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/styles-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/styles-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/vendor-es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/vendor-es2015.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/vendor-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/resources/jsold/vendor-es5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +139,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -40,7 +158,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Umd0pQLES5oVGgJYEoKCfbvSkm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources/assets/translations" />
@@ -226,11 +346,22 @@
       <workItem from="1575976514193" duration="4241000" />
       <workItem from="1575982082621" duration="36810000" />
       <workItem from="1576148665599" duration="16480000" />
-      <workItem from="1576235929804" duration="35770000" />
+      <workItem from="1576235929804" duration="37432000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -5,13 +5,47 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="resources/images/favicon.ico">
-    <link rel="image" type="image/image" href="resources/images/background-login.png">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
           crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="resources/css/stylesLogin.css">
+    <style>
+        .login .backgr-login {
+            background-image:url('resources/images/background-login.png');
+            background-size:cover;
+            background-position:center center;
+            background-repeat:no-repeat;
+            width:100%;
+            height:100vh;
+            position:relative;
+        }
+        .login .backgr-login .text-log {
+            position:absolute;
+            width:50%;
+            bottom:20%;
+            right:5%;
+        }
+        .login .backgr-login .text-log h1 {
+            font-weight:500;
+            font-size:24px;
+            color:#f0e8c0;
+            text-align:right;
+        }
+        .login .backgr-login .text-log h4{
+            font-weight:500;
+            font-size:24px;
+            color:#f0e8c0;
+            text-align:right
+        }
+        @media only screen and (max-width:1640px){
+            .login .backgr-login .text-log{width:70%}
+        }
+        @media only screen and (max-width:1200px){
+            .login .backgr-login .text-log{width:90%;bottom:10%}
+        }
+    </style>
 </head>
-<body class="login" id="background-login">
+<body class="login" id="backgr-login" >
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-7 d-none d-lg-block p-0">

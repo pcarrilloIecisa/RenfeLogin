@@ -8,7 +8,7 @@
     <link rel="icon" type="image/x-icon" href="admin/resources/images/favicon.ico">
     <link rel="stylesheet" href="admin/resources/css/styles.a9e726e99285e5511939.css">
 </head>
-<body onkeydown="return (event.keyCode !== 116)">
+<body>
 <app-root></app-root>
 
 <script src="admin/resources/js/runtime-es2015.js" type="module"></script>

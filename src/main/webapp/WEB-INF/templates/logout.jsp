@@ -10,7 +10,7 @@
           crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="resources/css/stylesLogin.css">
 </head>
-<body>
+<body onload="location.href='main'">
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-7 d-none d-lg-block p-0">
@@ -22,6 +22,6 @@
         </div>
     </div>
 </div>
-<button type="button" onClick="location.href='main'">IR A PAGINA PRINCIPAL</button>
+<!-- button type="button" onClick="location.href='main'">IR A PAGINA PRINCIPAL</button -->
 </body>
 </html>
