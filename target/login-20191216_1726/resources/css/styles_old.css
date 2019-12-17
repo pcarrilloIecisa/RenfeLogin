@@ -1,0 +1,23 @@
+#background-login{
+	background-color: #363332;
+}
+/*Login*/
+#jumbo-login {
+	margin-top: 20%;
+	width: 75%;
+	height: 55%;
+	background-color: #958e8e;
+	opacity: 0.88;
+}
+
+#container-login input[type=text], #container-login input[type=password]{
+	display: block;
+	width: 100%;
+	opacity: 1;
+}
+
+
+
+
+
+

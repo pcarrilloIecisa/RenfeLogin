@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.2">  
+  <deployment>  
+    <dependencies>
+    	<module name="org.javassist" export="true" />
+    	<module name="org.hibernate" services="export" meta-inf="export" export="true" />
+    	<module name="org.springframework" slot="4.2.7.RELEASE" meta-inf="export" export="true" />
+    	<module name="org.apache.tiles" meta-inf="export" export="true" />
+    	<module name="org.postgres" meta-inf="export" export="true" />
+    	<module name="org.apache.commons.fileupload" meta-inf="export" export="true" />
+    </dependencies>
+  </deployment>  
+</jboss-deployment-structure>

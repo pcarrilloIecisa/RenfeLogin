@@ -1,0 +1,23 @@
+{
+    "general.renfe": "renfe",
+    "general.trenes": "trenes",
+    "general.estaciones": "estaciones",
+    "general.cau": "cau",
+    "general.pdf": "pdf",
+
+    "button.informe_ejecutivo": "Informe",
+
+    "conten-der.title": " portal analítico playrenfe",
+    "conten-der.migas.datos_acceso": "datos de acceso",
+
+    "menu.kpis_globales": "KPIs globales",
+    "menu.kpis_mercado": "KPIs por mercado",
+    "menu.datos_acceso": "Datos de acceso",
+    "menu.conectividad_exterior": "Conectividad exterior",
+    "menu.trafico_satelite": "Tráfico satélite",
+    "menu.dispositivos": "Dispositivos",
+    "menu.contenidos": "Contenidos",
+    "menu.consumo": "Consumo",
+    "menu.top_ten_consumos": "Top 10 consumos",
+    "menu.logout": "Cerrar sesión"
+}

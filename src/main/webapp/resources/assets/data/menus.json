@@ -1,0 +1,60 @@
+[
+    {
+        "id": "kpi-glob",
+        "texto": "menu.kpis_globales",
+        "clase": "kpi-glob",
+        "iframe": "r=eyJrIjoiNmI4ODY2MjAtNWFiMS00NTQyLWEyZWMtODg4YzY1NzA1OWY2IiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+    },
+    {
+        "id": "dat-acces",
+        "texto": "menu.kpis_mercado",
+        "clase": "dat-acces",
+        "submenus": [
+            {
+                "id": "acceso",
+                "texto": "menu.datos_acceso",
+                "iframe": "r=eyJrIjoiYmYzZDJkZjUtZWRkMy00NTAwLTg5ZTMtMWM0MTJmZmYyM2NiIiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+            },
+            {
+                "id": "exterior",
+                "texto": "menu.conectividad_exterior",
+                "iframe": "r=eyJrIjoiYWQwOGFjOTAtZTVkYS00NWM2LTk4M2ItMTMyMTc2M2MxOGVhIiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+            }
+        ]
+    },
+    {
+        "id": "satelite",
+        "texto": "menu.trafico_satelite",
+        "clase": "conectiv-exter",
+        "iframe": "r=eyJrIjoiN2ZlZDEzZmYtMDA1MS00MmEwLWJhMDEtNjIxYzE2ZWQzMmUzIiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+    },
+    {
+        "id": "disposit",
+        "texto": "menu.dispositivos",
+        "clase": "disposit",
+        "iframe": "r=eyJrIjoiZjNhNzA3ZTItODE3My00NmFhLTg2NDMtMzdkMWNhZmFlZjU5IiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+    },
+    {
+        "id": "contenid",
+        "texto": "menu.contenidos",
+        "clase": "contenid",
+        "submenus": [
+            {
+                "id": "consumo",
+                "texto": "menu.consumo",
+                "iframe": "r=eyJrIjoiZjNlZDkxNGYtYzQ4YS00OTBiLTgwYTMtZDcwNWY4ZmQwMjUyIiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+            },
+            {
+                "id": "top-consumos",
+                "texto": "menu.top_ten_consumos",
+                "iframe": "r=eyJrIjoiMDY0YWU5OWItNTA0NC00ZDQxLWExMDYtZDdkNjM3ZTI5MGQ4IiwidCI6Ijg0NGNhZDU3LTA0ZTYtNGEzZi1hMTgxLThjOGJlZjM5MjgyMyIsImMiOjl9"
+            }
+        ]
+    },
+    {
+        "id": "logout",
+        "texto": "menu.logout",
+        "clase": "cerrar-sesion",
+        "url": "/logout"
+    }
+]
