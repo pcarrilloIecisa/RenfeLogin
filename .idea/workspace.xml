@@ -7,10 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0e22f9b-fec4-4582-aad8-0456657d52df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_new2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_new2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/logout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/logout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/assets/data/menus.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/data/menus.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/stylesLogin.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/stylesLogin.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/login-20191216_1726.war" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/login-20191216_1726/WEB-INF/classes/com/iecisa/controllers/LoginController.class" beforeDir="false" />
@@ -346,7 +351,7 @@
       <workItem from="1575976514193" duration="4241000" />
       <workItem from="1575982082621" duration="36810000" />
       <workItem from="1576148665599" duration="16480000" />
-      <workItem from="1576235929804" duration="37432000" />
+      <workItem from="1576235929804" duration="44844000" />
     </task>
     <servers />
   </component>
