@@ -21,7 +21,6 @@
 		<welcome-file>index.jsp</welcome-file> <!--Cambiar a index.jsp -->
 	</welcome-file-list>
 
-
 	<!-- Define the Login Configuration for this Application -->
 	<login-config>
 		<auth-method>FORM</auth-method>
@@ -43,6 +42,7 @@
 			<web-resource-name>Public Resource</web-resource-name>
 			<url-pattern>/login</url-pattern>
 			<url-pattern>/logout</url-pattern>
+			<url-pattern>/loginerror</url-pattern>
 			<url-pattern>/resources/css/*</url-pattern>
 			<url-pattern>/resources/assets/*</url-pattern>
 			<url-pattern>/resources/images/*</url-pattern>
@@ -50,7 +50,6 @@
 			<url-pattern>/resources/pdfs/*</url-pattern>
 		</web-resource-collection>
 	</security-constraint>
-
 
 	<security-constraint>
 		<web-resource-collection>
