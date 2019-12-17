@@ -12,7 +12,7 @@ public class LoginController{
 	@RequestMapping(value = "/login")
 	public ModelAndView login(HttpServletRequest request) {
 		ModelAndView  mav = new ModelAndView();
-		mav.setViewName("login_new2");
+		mav.setViewName("login");
 		return mav;
 	}
 }
